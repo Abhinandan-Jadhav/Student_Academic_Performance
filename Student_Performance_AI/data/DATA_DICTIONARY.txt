@@ -1,0 +1,9 @@
+attendance: percentage of classes attended
+study_hours: average weekly study hours
+previous_score: previous exam score percentage
+assignment_score: assignment score percentage
+internal_score: internal assessment percentage
+practical_score: practical/lab score percentage
+participation: classroom participation percentage
+gpa: GPA on a 0-10 scale
+final_score: final score percentage; used to derive target only, NOT an input feature
